@@ -1,11 +1,7 @@
 # CashRegisterProgram
-# The goal of this challenge is to design a cash register program.
-# You will be given two decimal numbers. The first is the purchase price (PP) of the item.
-# The second is the cash (CH) given by the customer
-# The aim of the program is to calculate the change that has to be returned to the customer.
-# Input : 15.94;16.00
-# Output : NICKEL,PENNY
-# Input : 17;16
+# Input : 4.5;50
+# Output : TWENTY,TWENT,FIVE, HALF DOLAR
+# Input : 10;5
 # Output : ERROR
-# Input : 35;35
+# Input : 30;30
 # Output : ZERO
